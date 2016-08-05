@@ -1,8 +1,60 @@
+
+.color-primary-0 { color: #5E81C5 }	/* Main Primary color */
+.color-primary-1 { color: #B5C9F0 }
+.color-primary-2 { color: #85A2DC }
+.color-primary-3 { color: #3F64AC }
+.color-primary-4 { color: #264D9B }
+
+.color-secondary-1-0 { color: #7862C9 }	/* Main Secondary color (1) */
+.color-secondary-1-1 { color: #C3B7F1 }
+.color-secondary-1-2 { color: #9A88DF }
+.color-secondary-1-3 { color: #5B44B2 }
+.color-secondary-1-4 { color: #4329A1 }
+
+.color-secondary-2-0 { color: #FFE46B }	/* Main Secondary color (2) */
+.color-secondary-2-1 { color: #FFF2BA }
+.color-secondary-2-2 { color: #FFEB8F }
+.color-secondary-2-3 { color: #FFDE4C }
+.color-secondary-2-4 { color: #E9C525 }
+
+.color-complement-0 { color: #FFCC6B }	/* Main Complement color */
+.color-complement-1 { color: #FFE7BA }
+.color-complement-2 { color: #FFD88F }
+.color-complement-3 { color: #FFC14C }
+.color-complement-4 { color: #E9A525 }
+
+
+
+
 body {
      margin: 0;
-     background: url('idk.jpg');
-     opacity: 0.5;
+     /*background: url('pattern.jpg');*/
      background-size: 1440px 800px;
      background-repeat:no-repeatdisplay: compact;
-     font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+     text-align: center;
+     background-color:#fdfffd;
 }
+
+.cover-picture {
+  width:200px;
+  height:auto;
+
+}
+
+
+.nav-link {
+  color:#4329A1;
+}
+
+.cover-heading {
+  color:#fff;
+}
+
+.cover {
+  padding: 30px 0;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(0,0,0,.1);
+  background-color: #5E81C5;
+
+}
+#ff80df
